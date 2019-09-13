@@ -10,6 +10,8 @@
 	<string>com.github.jss-recipes.jss.DBeaverCommunity</string>
 	<key>Input</key>
 	<dict>
+		<key>pkg_path</key>
+		<string>%pathname%</key>
 		<key>APP_FILENAME</key>
 		<string>DBeaver</string>
 		<key>CATEGORY</key>
