@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Downloads latest version of DBeaver Community Edition.</string>
     <key>Identifier</key>
-    <string>com.github.TomJanz.download.DBeaverCE</string>
+    <string>com.github.TomJanz.download.DBeaverCommunity</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
