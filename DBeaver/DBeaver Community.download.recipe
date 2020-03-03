@@ -9,7 +9,7 @@
     <key>Input</key>
     <dict>
         <key>NAME</key>
-        <string>DBeaverCE</string>
+        <string>DBeaverCommunity</string>
         
 <!--SELECT YOUR OS VERSION AND USE IT IN YOUR OVERRIDE
 	"installer" for MAC OS X Pkg installer
