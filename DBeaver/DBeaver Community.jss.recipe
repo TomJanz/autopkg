@@ -32,7 +32,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.TomJanz.pkg.DBeaverCommunity</string>
+	<string>com.github.TomJanz.download.DBeaverCommunity</string>
 	<key>Process</key>
 	<array>
 		<dict>
