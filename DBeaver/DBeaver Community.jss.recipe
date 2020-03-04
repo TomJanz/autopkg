@@ -12,6 +12,8 @@
 	<dict>
 		<key>APP_FILENAME</key>
 		<string>DBeaver</string>
+		<key>pkg_path</key>
+		<string>%pathname%</string>
 		<key>CATEGORY</key>
 		<string>Productivity</string>
 		<key>GROUP_NAME</key>
