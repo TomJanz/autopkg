@@ -48,7 +48,7 @@
 				<key>filename</key>
 				<string>%NAME%-%version%.pkg</string>
 				<key>pkg_path</key>
-				<string>%RECIPE_CACHE_DIR%/%NAME%-%version%.pkg</string>
+				<string>%RECIPE_CACHE_DIR%/downloads/%NAME%-%version%.pkg</string>
 			</dict>
 			<key>Processor</key>
 			<string>URLDownloader</string>
