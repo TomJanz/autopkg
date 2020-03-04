@@ -13,7 +13,7 @@
 		<key>APP_FILENAME</key>
 		<string>DBeaver</string>
 		<key>pkg_path</key>
-		<string>%pathname%</string>
+		<string>%RECIPE_CACHE_DIR%/%NAME%-%version%.pkg</string>
 		<key>CATEGORY</key>
 		<string>Productivity</string>
 		<key>GROUP_NAME</key>
